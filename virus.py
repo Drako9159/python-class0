@@ -10,6 +10,6 @@ number_repet = 200
 while number_repet > 0 :
     left(number_repet)
     forward(number_repet * 1)
-    #number_repet = number_repet + 1
+    number_repet = number_repet + 1
 
 
